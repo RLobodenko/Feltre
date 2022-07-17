@@ -1,0 +1,40 @@
+body {
+  padding: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.one {
+  color: rgb(42, 154, 252);
+}
+
+.two {
+  color: rgb(180, 50, 251);
+}
+
+.three {
+  color: rgb(39, 171, 30);
+}
+
+.four {
+  color: rgb(19, 72, 119);
+}
+
+.five {
+  color: rgb(179, 179, 179);
+}
+
+.six {
+  color: rgb(253, 147, 51);
+}/*# sourceMappingURL=4.css.map */

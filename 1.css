@@ -1,0 +1,16 @@
+body {
+    
+   
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+
+.telegram {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+

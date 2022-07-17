@@ -1,0 +1,21 @@
+
+.radio1 {
+ width: 22px;
+height: 22px;	
+	margin: 0 9px 0 0;
+}
+
+body {
+padding-top: 50px;
+padding-left: 50px;
+padding: 10px;
+
+}
+
+.primer {
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
